@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I´m a Petroleum Engineer, as well as a Full Stack Developer.  
+
+I´ve been involved in web development proyects in both front-end and back-end roles, with a little emphasis in this last one. I´m looking forward to keep learning in the developing world, as well as contribute to future proyects with my current knowledge and the skills I have acquired throughout my experience as engineer.
+
+We can get in touch via e-mail at: danielechs@hotmail.com.
 <!--
 **danielchavezs/danielchavezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
