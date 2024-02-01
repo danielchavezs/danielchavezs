@@ -1,8 +1,40 @@
 ### Hi there 👋
 
-I´m a Petroleum Engineer, as well as a Full Stack Developer.  
+Bilingual (ENG - SPA) Full Stack Developer and Petroleum Engineer committed to delivering innovative solutions for today's dynamic market. I thrive on acquiring new skills and knowledge in technological tools to drive creativity and achieve impactful results in collaborative team projects.
 
-I´ve been involved in web development proyects in both front-end and back-end roles, with a little emphasis in this last one. I´m looking forward to keep learning in the developing world, as well as contribute to future proyects with my current knowledge and the skills I have acquired throughout my experience as engineer.
+💻 Tech Stack:
+
+• JavaScript
+• React
+• Redux
+• CSS
+• HTML
+• GIT
+• Node.JS
+• Express.JS
+• PostgreSQL
+
+🧽 Soft Skills:
+• Problem-solving
+• Adaptability.
+• Communication
+• Logical thinking.
+• Analysis.
+• Proactivity.
+• Teamwork.
+• Learning willingness.
+
+👷‍♂️ With a strong foundation as a Petroleum Engineer, I bring a unique blend of technical expertise and Full Stack development skills to the table. My experience within the hydrocarbon transportation sector involved quality control, creation of technical documentation, and optimization programs for maintenance, integrity, on-shore, and off-shore operations. I have served as a consultant for Line Integrity Management Cycle and Project Management Audits, adhering to API 1160, NTC 5901, and PMI standards.
+
+👨‍💻 As a Full Stack Developer, my proficiency extends to JavaScript, HTML, CSS, React, Redux, PostgreSQL, and more. In my role, I have successfully managed database models through PostgreSQL – Sequelize, developing controllers responsible for seamless communication with the front-end.
+
+✨ Key Contributions:
+• Database Management: Utilized PostgreSQL – Sequelize for efficient database model management, ensuring optimal system performance.
+• Controller Development: Developed robust controllers to facilitate smooth communication between the back-end and front-end, ensuring a responsive user experience.
+• Enhanced Functionality: Implemented advanced features, such as combined filters, logical deletion applications, and configurable pagination systems, elevating the overall user experience.
+• Dynamic Front-end Components: Developed front-end components that empowered users to activate or deactivate products effortlessly, providing a seamless interface for updating product properties directly in the database.
+
+🚀 Excited about the prospect of taking on new challenges and contributing my skills to cutting-edge projects. Let's connect and explore how I can bring value to your team!
 
 We can get in touch via e-mail at: danielechs@hotmail.com.
 <!--
